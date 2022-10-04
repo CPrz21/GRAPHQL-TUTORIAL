@@ -48,7 +48,7 @@ const typeDefs = gql`
     BRAZIL
     INDIA
     GERMANY
-    CHILE
+    EL_SALVADOR
     UKRAINE
   }
 `;
